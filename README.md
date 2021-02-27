@@ -16,6 +16,7 @@ Renting on the other hand let's you invest your money into stocks or whatever in
 ____________ INSTALLATION ____________
 
 Since this is a single Jupyter notebook you just have to have Jupyter installed. Libraries you need to have are Numpy, Pandas and Matplotlib. 
+On Debian based systems you can run the provided script.
 
 ____________ USAGE ____________
 
